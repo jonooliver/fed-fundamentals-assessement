@@ -47,5 +47,6 @@ body {
 }
 
 .assessment-link a:hover {
-  background-color: var(--black);;
+  background-color: var(--black);
+  border: 1px solid var(--black);
 }
